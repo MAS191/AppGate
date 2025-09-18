@@ -69,7 +69,7 @@ Typical scenarios
 ## ⬇️ Get the source
 - Clone (recommended):
 ```bash
-git clone https://github.com/<your-username>/AppGate.git
+git clone https://github.com/MAS191/AppGate.git
 cd AppGate
 ```
 - Or download ZIP: GitHub → Code → Download ZIP, then extract.
@@ -131,3 +131,4 @@ See the full guide in `AppGate/usage.md` for examples and details.
 
 ## 📄 License
 MIT — see `AppGate/LICENSE`.
+
